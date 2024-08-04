@@ -37,7 +37,7 @@ sudo ./Battery
 
 >  注意⚠️：必须使用sudo执行，因为打开节能模式需要权限
 
-![image](https://github.com/Jiang-Night/MacOSBattery/blob/main/assets/image.png)
+
 
 ---
 
