@@ -1,0 +1,2 @@
+# MacOSBattery
+MacOS Battery Manager.
