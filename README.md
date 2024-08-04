@@ -1,7 +1,4 @@
 # MacOSBattery
-<<<<<<< HEAD
-MacOS Battery Manager.
-=======
 ### 一款监控Mac电池温度的插件
 
  非常适合`Air`这种没有风扇的用户使用(doge)，检测到温度过高自动开启节能模式，以保护电池健康（虽然我也不知道这样做用途大不大，但是身边有好多朋友都是这样做的），由于本人并非专业Mac开发，~~甚至不会swift和oc~~，所以只能做到使用终端启动，并不能制作好看的ui打包为App，欢迎各位Mac开发大佬打包成app维护
@@ -51,4 +48,3 @@ sudo ./Battery
 
 - [Stats](https://github.com/exelban/stats) : 获取电池温度一开始是从ioreg读取的，但是从ioreg读取的温度不准确，最终在Stats项目中扣出了获取温度的代码(详见smc.swift)
 - QQ群中的`QuickRecorder`大佬，Github主页：[lihaoyun6](https://github.com/lihaoyun6)
->>>>>>> 10a0015 (更改REEADME.md)
